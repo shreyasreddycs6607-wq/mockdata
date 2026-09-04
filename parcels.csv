@@ -1,0 +1,21 @@
+parcel_id,project_id,survey_number,ulpin_demo,village,taluk,district,state,area_acres,area_hectares,field_verified_area_acres,land_type,rtc_status,mutation_status,acquisition_status,owner_count,geometry_discrepancy,latitude,longitude
+LA-KA-2026-001-P001,LA-KA-2026-001,45/2A,29100000000731,Kengeri,Bengaluru South,Bengaluru Urban,Karnataka,2.40,0.971,2.400,Agricultural,Active,Not Initiated,Not Acquired,1,False,12.9081,77.4872
+LA-KA-2026-001-P002,LA-KA-2026-001,45/2B,29100000001462,Kengeri,Bengaluru South,Bengaluru Urban,Karnataka,1.85,0.749,1.850,Agricultural,Active,Pending,Acquired,1,False,12.9090,77.4884
+LA-KA-2026-001-P003,LA-KA-2026-001,46/1,29100000002193,Kengeri,Bengaluru South,Bengaluru Urban,Karnataka,3.10,1.255,3.156,Dry Agricultural,Active,Not Initiated,Not Acquired,2,True,12.9073,77.4901
+LA-KA-2026-001-P004,LA-KA-2026-001,47/3C,29100000002924,Kengeri,Bengaluru South,Bengaluru Urban,Karnataka,2.05,0.830,2.032,Agricultural,Active,Pending,Acquired,1,False,12.9062,77.4860
+LA-KA-2026-002-P005,LA-KA-2026-002,112/4,29100000003655,Hulikunte,Sira,Tumakuru,Karnataka,3.75,1.518,3.750,Agricultural,Active,Not Initiated,Not Acquired,1,False,13.2702,76.9021
+LA-KA-2026-002-P006,LA-KA-2026-002,113/1,29100000004386,Hulikunte,Sira,Tumakuru,Karnataka,2.10,0.850,2.100,Agricultural,Active,Not Initiated,Not Acquired,2,False,13.2711,76.9033
+LA-KA-2026-002-P007,LA-KA-2026-002,114/2,29100000005117,Hulikunte,Sira,Tumakuru,Karnataka,4.45,1.801,4.450,Agricultural,Active,Not Initiated,Not Acquired,1,False,13.2689,76.9048
+LA-KA-2026-002-P008,LA-KA-2026-002,116/7,29100000005848,Hulikunte,Sira,Tumakuru,Karnataka,1.92,0.777,1.920,Dry Agricultural,Active,Not Initiated,Not Acquired,1,False,13.2698,76.9006
+LA-KA-2026-003-P009,LA-KA-2026-003,78/1A,29100000006579,Sonnahalli,Chittapur,Kalaburagi,Karnataka,8.20,3.319,8.200,Agricultural,Active,Pending,Acquired,1,False,17.3180,76.8621
+LA-KA-2026-003-P010,LA-KA-2026-003,78/1B,29100000007310,Sonnahalli,Chittapur,Kalaburagi,Karnataka,6.40,2.590,6.400,Agricultural,Active,Pending,Acquired,1,False,17.3191,76.8640
+LA-KA-2026-003-P011,LA-KA-2026-003,79/3,29100000008041,Sonnahalli,Chittapur,Kalaburagi,Karnataka,5.70,2.307,5.803,Dry Agricultural,Active,Pending,Acquired,2,True,17.3168,76.8657
+LA-KA-2026-003-P012,LA-KA-2026-003,80/2,29100000008772,Sonnahalli,Chittapur,Kalaburagi,Karnataka,7.10,2.873,7.100,Agricultural,Active,Pending,Acquired,1,False,17.3172,76.8604
+LA-KA-2026-004-P013,LA-KA-2026-004,210/5,29100000009503,Kadakola,Nanjangud,Mysuru,Karnataka,4.30,1.740,4.300,Agricultural,Active,Not Initiated,Not Acquired,1,False,12.1882,76.8547
+LA-KA-2026-004-P014,LA-KA-2026-004,211/2,29100000010234,Kadakola,Nanjangud,Mysuru,Karnataka,3.15,1.275,3.150,Agricultural,Active,Not Initiated,Not Acquired,1,False,12.1890,76.8562
+LA-KA-2026-004-P015,LA-KA-2026-004,212/6,29100000010965,Kadakola,Nanjangud,Mysuru,Karnataka,2.80,1.133,2.800,Agricultural,Active,Not Initiated,Not Acquired,1,False,12.1871,76.8580
+LA-KA-2026-004-P016,LA-KA-2026-004,214/1,29100000011696,Kadakola,Nanjangud,Mysuru,Karnataka,5.60,2.267,5.600,Dry Agricultural,Active,Not Initiated,Not Acquired,1,False,12.1902,76.8529
+LA-KA-2026-005-P017,LA-KA-2026-005,32/7,29100000012427,Kavoor,Mangaluru,Dakshina Kannada,Karnataka,3.40,1.376,3.400,Agricultural,Active,Pending,Possessed,1,False,12.9455,74.8448
+LA-KA-2026-005-P018,LA-KA-2026-005,33/1,29100000013158,Kavoor,Mangaluru,Dakshina Kannada,Karnataka,2.90,1.174,2.900,Dry Agricultural,Active,Pending,Possessed,2,False,12.9462,74.8461
+LA-KA-2026-005-P019,LA-KA-2026-005,34/5,29100000013889,Kavoor,Mangaluru,Dakshina Kannada,Karnataka,1.85,0.749,1.850,Agricultural,Active,Pending,Possessed,1,False,12.9447,74.8479
+LA-KA-2026-005-P020,LA-KA-2026-005,35/2,29100000014620,Kavoor,Mangaluru,Dakshina Kannada,Karnataka,2.20,0.890,2.180,Agricultural,Active,Pending,Possessed,1,True,12.9473,74.8429
