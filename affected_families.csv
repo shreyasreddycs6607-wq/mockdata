@@ -1,0 +1,21 @@
+family_id,parcel_id,head_of_family,members_count,affected_category,displaced,housing_status,livelihood_support_status,annuity_status
+AF-0001,LA-KA-2026-001-P001,Ravi Kumar,4,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0002,LA-KA-2026-001-P002,Meena Devi,5,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0003,LA-KA-2026-001-P003,Suresh Gowda,6,Land Owner,False,Not Applicable,Eligible,Eligible
+AF-0004,LA-KA-2026-001-P004,Lakshmi Narayan,7,Land Owner,False,Not Applicable,Pending,Not Applicable
+AF-0005,LA-KA-2026-002-P005,Shivanna H.,3,Land Owner,True,Eligible,Eligible,Not Applicable
+AF-0006,LA-KA-2026-002-P006,Gowramma K.,4,Land Owner,False,Not Applicable,Eligible,Eligible
+AF-0007,LA-KA-2026-002-P007,Ramesh B.,5,Land Dependent,False,Not Applicable,Eligible,Not Applicable
+AF-0008,LA-KA-2026-002-P008,Farzana Begum,6,Land Owner,False,Not Applicable,Pending,Not Applicable
+AF-0009,LA-KA-2026-003-P009,Basavaraj P.,7,Land Owner,False,Not Applicable,Eligible,Eligible
+AF-0010,LA-KA-2026-003-P010,Savita P.,3,Land Owner,True,Eligible,Eligible,Not Applicable
+AF-0011,LA-KA-2026-003-P011,Mahantesh K.,4,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0012,LA-KA-2026-003-P012,Rukmini D.,5,Land Owner,False,Not Applicable,Pending,Eligible
+AF-0013,LA-KA-2026-004-P013,Prakash J.,6,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0014,LA-KA-2026-004-P014,Anitha S.,7,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0015,LA-KA-2026-004-P015,Naveen M.,3,Land Dependent,True,Eligible,Eligible,Eligible
+AF-0016,LA-KA-2026-004-P016,Venkatesh R.,4,Land Owner,False,Not Applicable,Pending,Not Applicable
+AF-0017,LA-KA-2026-005-P017,Mohammed Ismail,5,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0018,LA-KA-2026-005-P018,Ayesha Ismail,6,Land Owner,False,Not Applicable,Eligible,Eligible
+AF-0019,LA-KA-2026-005-P019,Joseph D'Souza,7,Land Owner,False,Not Applicable,Eligible,Not Applicable
+AF-0020,LA-KA-2026-005-P020,Shalini Pai,3,Land Dependent,True,Eligible,Pending,Not Applicable
