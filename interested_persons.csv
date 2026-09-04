@@ -1,0 +1,21 @@
+person_id,parcel_id,name,relationship_type,identity_verified,affected_family,displaced
+IP-0001,LA-KA-2026-001-P001,Ravi Kumar,Owner,True,True,False
+IP-0002,LA-KA-2026-001-P002,Meena Devi,Owner,True,True,False
+IP-0003,LA-KA-2026-001-P003,Suresh Gowda,Co-owner,True,True,False
+IP-0004,LA-KA-2026-001-P004,Lakshmi Narayan,Owner,True,True,False
+IP-0005,LA-KA-2026-002-P005,Shivanna H.,Owner,True,True,True
+IP-0006,LA-KA-2026-002-P006,Gowramma K.,Co-owner,True,True,False
+IP-0007,LA-KA-2026-002-P007,Ramesh B.,Tenant,True,True,False
+IP-0008,LA-KA-2026-002-P008,Farzana Begum,Owner,True,True,False
+IP-0009,LA-KA-2026-003-P009,Basavaraj P.,Owner,True,True,False
+IP-0010,LA-KA-2026-003-P010,Savita P.,Owner,True,True,True
+IP-0011,LA-KA-2026-003-P011,Mahantesh K.,Co-owner,True,True,False
+IP-0012,LA-KA-2026-003-P012,Rukmini D.,Owner,True,True,False
+IP-0013,LA-KA-2026-004-P013,Prakash J.,Owner,True,True,False
+IP-0014,LA-KA-2026-004-P014,Anitha S.,Owner,True,True,False
+IP-0015,LA-KA-2026-004-P015,Naveen M.,Tenant,True,True,True
+IP-0016,LA-KA-2026-004-P016,Venkatesh R.,Owner,True,True,False
+IP-0017,LA-KA-2026-005-P017,Mohammed Ismail,Owner,True,True,False
+IP-0018,LA-KA-2026-005-P018,Ayesha Ismail,Co-owner,True,True,False
+IP-0019,LA-KA-2026-005-P019,Joseph D'Souza,Owner,True,True,False
+IP-0020,LA-KA-2026-005-P020,Shalini Pai,Tenant,True,True,True
